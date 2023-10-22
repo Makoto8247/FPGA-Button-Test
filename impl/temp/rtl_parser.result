@@ -1,0 +1,10 @@
+[
+ {
+  "InstFile" : "D:/FPGA/Projects/button_test/src/button.sv",
+  "InstLine" : 1,
+  "InstName" : "button",
+  "ModuleFile" : "D:/FPGA/Projects/button_test/src/button.sv",
+  "ModuleLine" : 1,
+  "ModuleName" : "button"
+ }
+]
