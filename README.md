@@ -11,7 +11,6 @@
 ## 必要なソフトウェア
 
 - GOWIN IDE
-  - [GOWIN IDEをダウンロード](https://gowinsemi.mikecrm.com/VlYmTb)
 - GOWINドライバ（PCとFPGAボードを接続するため）
 
 ## プロジェクトのセットアップ
